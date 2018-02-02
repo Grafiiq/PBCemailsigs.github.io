@@ -39,4 +39,12 @@ h1 {
 	color: #a4c6d3;
 	line-height: 16px;
 }
-image {align-content: center;}
+image {
+	align-content: center;
+}
+div2 {
+	text-align: center;
+}
+td2 {
+	text-align: center;
+}
